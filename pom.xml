@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>decompress</artifactId>
-    <version>0.2.4</version>
+    <version>0.2.5-SNAPSHOT</version>
     <name>decompress</name>
     <description>WebJar for decompress</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/decompress</url>
         <connection>scm:git:https://github.com/webjars/decompress.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/decompress.git</developerConnection>
-        <tag>decompress-0.2.4</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
